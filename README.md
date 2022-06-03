@@ -12,3 +12,5 @@ Todas as perguntas estão em ordem de dificuldade, selecionadas por mim.
 As unicas coisas um pouco mais trabalhosas são as animações, ou o sistema de Vida possibilitando erros, e o cronometro para cada pergunta.
 
 
+// preciso urgentemente pegar um dia pra documentar esse codigo todo pqp
+
